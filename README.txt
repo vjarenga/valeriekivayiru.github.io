@@ -1,32 +1,24 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+💼 Valerie Kivayiru Portfolio
+Welcome to my portfolio website!
 
+This site showcases who I am, my skills, projects, and my passion for using data to drive meaningful insights and decision-making. Whether it's analyzing trends, building dashboards, or forecasting outcomes, I love turning raw data into something that tells a story.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+🔍 What You'll Find
+A little about me and my journey in tech and data
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Highlighted projects 
 
-(* = not included)
+Clean visualizations and dashboards I’ve created
 
-AJ
-aj@lkn.io | @ajlkn
+Links to my GitHub, LinkedIn, and resume
 
+Contact section — let’s connect!
 
-Credits:
+🛠 Built With
+HTML, CSS, JavaScript
 
-	Demo Images:
-		Unsplash (unsplash.com)
+GitHub Pages for hosting
 
-	Icons:
-		Font Awesome (fontawesome.io)
+Clean and minimal design with a focus on readability and simplicity
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Thanks for stopping by. Feel free to explore, fork, or reach out!
